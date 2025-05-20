@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Darren!
 
-<!--
-**darrencorona/darrencorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Self-taught web developer on a mission to master the fundamentals and build real-world projects, one step at a time.
 
-Here are some ideas to get you started:
+🧠 My current focus:
+- HTML, CSS, JavaScript
+- Learning fundamentals deeply
+- Building real projects and practicing problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Become a full-stack developer
+- Contribute to open-source
+- Share my journey and progress
+
+🛠 Tech I'm using and learning:
+- HTML / CSS / JavaScript
+- Git & GitHub
+- Linux (WSL2), VS Code
+
+📚 Always learning, always improving!
+
+Let's build something awesome 💻
